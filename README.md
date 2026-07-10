@@ -58,4 +58,4 @@ python LaserSafe.py
 
 ### Ввод цифр в сейф
 
-![alt text](screenshots/image1.png)
+![alt text](Screenshots/image1.png)
